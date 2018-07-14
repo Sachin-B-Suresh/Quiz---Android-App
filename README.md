@@ -11,9 +11,13 @@ So, goals of this project to facilitate users to configure quizzes as well as gi
 Each quiz contains 10 questions and 1 mark will be allotted for the right answer, no negative marking. Users must complete the quiz within the given time, timers are set for each quiz. User friendly environment configuration is also another goal for this project application.
 
 # Installation:
-Install the apk 
-You can install the apk only on android device running android version 5.1 or greater
+
+Install the apk
+
+You can install the apk only on android device running android version 5.1 or greater.
+
 Tested on Android 8.0
+
 
 # Usage:
 This application can be used to conduct True/False quiz
