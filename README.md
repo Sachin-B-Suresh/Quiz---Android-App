@@ -4,7 +4,7 @@ Android application development
 # Description:
 
 Project application is developed based on the Android platform.
-It is a quiz application where a user with admin privilege can do tasks like add, delete and edit from the application user interface (UI) and interviewee can participate for MCQ quiz with a time limit. The application provides a user-friendly menu where users can select among 6 different quizzes. Users must complete the quiz within the given time, timers are set for each quiz.
+It is a quiz application where a user with admin privilege can do tasks like add, delete and edit using the simple user interface (UI) and interviewee can participate for MCQ quiz with a time limit. The application provides a user-friendly menu where users can select among 6 different quizzes. Users must complete the quiz within the given time, timers are set for each quiz.
 
 # Installation:
 
