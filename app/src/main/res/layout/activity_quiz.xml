@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuizActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0097f6"
+        android:id="@+id/Scores">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Score"
+            android:layout_alignParentLeft="true"
+            android:padding="20dp"
+            android:textSize="15sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:textSize="20sp"
+            android:text="Timer"
+            android:textColor="#000"
+            android:layout_centerInParent="true"
+            android:id="@+id/CountTimer"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="0"
+            android:id="@+id/Score"
+            android:layout_alignParentRight="true"
+            android:padding="15sp"
+            android:textSize="20sp"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="295dp"
+            android:layout_weight="5"
+            android:backgroundTint="#e220e15a"
+            android:text="True"
+            android:id="@+id/TrueButton"
+            android:textColor="#000"
+            android:textAllCaps="false"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            android:hapticFeedbackEnabled="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:padding="10px"
+            android:id="@+id/Question"
+            android:textAlignment="center"
+            android:text="Demo Question, Tap on True or False"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:backgroundTint="@color/colorPrimary"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="295dp"
+            android:layout_weight="5"
+            android:backgroundTint="#def60000"
+            android:padding="30px"
+            android:text="False"
+            android:textColor="#000"
+            android:textAllCaps="false"
+            android:id="@+id/FalseButton"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            android:hapticFeedbackEnabled="true"/>
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

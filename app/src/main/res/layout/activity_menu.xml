@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="53dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:padding="20px"
+        android:text="Java Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="159dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:hapticFeedbackEnabled="true"
+        android:padding="20px"
+        android:text="Python Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="53dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:hapticFeedbackEnabled="true"
+        android:padding="20px"
+        android:text="C Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="159dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:hapticFeedbackEnabled="true"
+        android:padding="20px"
+        android:text="C++ Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="265dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:hapticFeedbackEnabled="true"
+        android:padding="20px"
+        android:text="JavaScript Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="265dp"
+        android:layout_weight="1"
+        android:backgroundTint="#0097f6"
+        android:hapticFeedbackEnabled="true"
+        android:padding="20px"
+        android:text="HTML Quiz"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textStyle="italic" />
+</RelativeLayout>
