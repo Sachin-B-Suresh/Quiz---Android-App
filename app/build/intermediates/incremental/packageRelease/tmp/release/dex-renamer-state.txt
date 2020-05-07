@@ -1,0 +1,4 @@
+#Thu May 07 19:03:33 IST 2020
+base.0=C\:\\Users\\sachi\\Desktop\\Projects\\Android\\Quiz---Android-App\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

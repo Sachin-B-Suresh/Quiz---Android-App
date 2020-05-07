@@ -1,0 +1,10 @@
+Q1. Java is an Object Oriented Programming,
+Q2. Java is same as JavaScript,
+Q3. Java technology is both a programming language and a platform,
+Q4. Sun Microsystems created Java,
+Q5. Java is currently owned by Sun Microsysytems,
+Q6. A  .class file contains bytecodes,
+Q7. Garbage collection is manual process,
+Q8. Constructor overloading is not possible,
+Q9. James Gosling is Father of Java,
+Q10. This app was made using Java

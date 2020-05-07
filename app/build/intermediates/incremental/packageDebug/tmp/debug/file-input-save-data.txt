@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu May 07 19:57:39 IST 2020
+1.base=C\:\\Users\\sachi\\Desktop\\Projects\\Android\\Quiz---Android-App\\app\\build\\intermediates\\assets\\debug
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\sachi\\Desktop\\Projects\\Android\\Quiz---Android-App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=answers.txt
+0.set=ASSET
+0.base=C\:\\Users\\sachi\\Desktop\\Projects\\Android\\Quiz---Android-App\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=questions.txt
